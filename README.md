@@ -1,6 +1,6 @@
 ###  Olá  Eu Sou o Diego Flores 👋
 🔭 Hoje Estou Trabalhando como Front-end ...<br>
-📖 Estudando PHP e Phyton ...
+📖 Estudando PHP JS e Phyton ...
 <!--
 **DiegoFlores96/DiegoFlores96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
