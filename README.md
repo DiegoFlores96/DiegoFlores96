@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">📊 Métricas do Github:</P>
+<p align="left">📊 Métricas do Github:</P>
 <div align="center">
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoflores96&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflores96&layout=compact&langs_count=7&theme=dark&text_color=fff&icon_color=fff"/>
 </div>
-<h3 align="center">  Tecnologias & Linguagens </h3>
+<h3 align="left">  Tecnologias & Linguagens </h3>
 <div style="display: inline_block"> <br>
 
 <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="40"/> 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  
 </div>
 <br>
-<h3 align="center">🔗 Entre em contato comigo:</h3>
+<h3 align="left">🔗 Entre em contato comigo:</h3>
   <div>
      
   <a href="https://www.instagram.com/diego.flrs.75/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
