@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">📊 Métricas do Github:</P>
-<div align="center">
+<div align="left">
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoflores96&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflores96&layout=compact&langs_count=7&theme=dark&text_color=fff&icon_color=fff"/>
