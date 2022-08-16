@@ -1,6 +1,6 @@
 ###  Olá  Eu Sou o Diego Flores 👋 seja muito Bem vindo (a)!!!!
  📖 Estudando PHP JS e Phyton ...<br>
- 📫 Fale comigo  em  diegoflrs9@gmail.com<br>
+ 📫 Fale comigo  em  diegoflores96_96@hotmail.com<br>
 <!--
 **DiegoFlores96/DiegoFlores96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
