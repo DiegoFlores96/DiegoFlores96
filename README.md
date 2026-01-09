@@ -12,8 +12,10 @@
 <p align="left">📊 <strong>Métricas do GitHub</strong>:</P>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoflores96&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflores96&layout=compact&langs_count=7&theme=dark&text_color=fff&icon_color=fff"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiegoFlores96&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoFlores96&layout=compact&theme=dark" />
+
 </div>
 
 ---
