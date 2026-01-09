@@ -24,7 +24,8 @@
 
 <!-- Ferramentas e Data -->
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35" title="Git"/>
-<img align="center" src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" width="35" height="35" title="Power BI"/>
+<img align="center" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg" width="40" height="40" title="Power BI"/>
+
 
 <!-- Frontend -->
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35" title="HTML5"/>
